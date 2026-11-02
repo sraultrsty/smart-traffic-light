@@ -1,7 +1,6 @@
 # Smart Traffic Light
 
 **Group 11 | K73 | WI1102 Computational Thinking**
-SCHOOL OF ELECTRICAL ENGINEERING AND INFORMATICS, INSTITUT TEKNOLOGI BANDUNG (2026)
 
 ## Project Description
 This repository contains a Python-based simulation of a Smart Traffic Light system for a standard 4-way intersection (North, South, East, West). Designed using the four pillars of Computational Thinking, the system continuously loops through a 6-phase cycle to manage vehicle flow, pausing only when pedestrians want to cross.
